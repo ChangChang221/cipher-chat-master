@@ -1,0 +1,5 @@
+{
+  "name": "CipherChat - Production",
+  "jwtKey": "uSG8&sSqn5FgczkV8&qtAjoENEW24GJQLhxH7b2v3",
+  "MONGODB_URI": "mongodb://127.0.0.1:27017/cipher-chat-production"
+}
